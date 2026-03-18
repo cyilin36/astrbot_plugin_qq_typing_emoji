@@ -1,0 +1,8 @@
+{
+  "processing_emoji_id": {
+    "description": "群消息处理中表情 ID",
+    "type": "int",
+    "default": 60,
+    "hint": "NapCat set_msg_emoji_like 使用的 emoji_id。仅在 aiocqhttp 群聊中生效。"
+  }
+}

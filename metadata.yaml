@@ -1,0 +1,8 @@
+name: astrbot_plugin_qq_typing_emoji
+display_name: QQ Typing Emoji
+description: Use NapCat group emoji reactions as a temporary processing indicator for AstrBot replies.
+author: OpenCode
+version: 0.1.0
+astrbot_version: ">=4.16,<5"
+support_platforms:
+  - aiocqhttp
