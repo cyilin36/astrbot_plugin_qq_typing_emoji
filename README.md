@@ -12,6 +12,7 @@
 ## 配置
 
 - `processing_emoji_id`：处理中表情 ID，默认值为 `60`
+  > `ID` 获取可以查看[QQ机器人官方文档](https://bot.q.qq.com/wiki/develop/pythonsdk/model/emoji.html)
 
 ## 说明
 
