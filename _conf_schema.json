@@ -4,5 +4,11 @@
     "type": "int",
     "default": 60,
     "hint": "NapCat set_msg_emoji_like 使用的 emoji_id。仅在 aiocqhttp 群聊中生效。"
+  },
+  "max_pending_reactions": {
+    "description": "最大待处理消息数",
+    "type": "int",
+    "default": 100,
+    "hint": "内存中最多保留多少条尚未完成的消息追踪记录。超过后按最早进入的顺序移除。"
   }
 }

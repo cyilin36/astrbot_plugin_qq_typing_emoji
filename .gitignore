@@ -3,3 +3,4 @@ NapCatDocs/
 AGENTS.md
 __pycache__/
 .gitignore
+testlog.log
